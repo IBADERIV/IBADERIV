@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IBADERIV
+- 👀 I’m interested in Languages
+- 🌱 I’m currently learning C++
+- 📫 How to reach me SimplyBader@gmail.com
